@@ -1,0 +1,7 @@
+[core]
+	autocrlf = input
+	filemode = false
+	editor = /cygdrive/e/programs/notepad2/Notepad2.exe
+[user]
+	name = Antranig Basman
+	email = antranig.basman@colorado.edu

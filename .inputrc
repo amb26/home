@@ -1,0 +1,4 @@
+#set bind-tty-special-characters-off
+#"shift insert": paste-from-clipboard
+"\e[2;2~": paste-from-clipboard
+#"\C-v": paste-from-clipboard
